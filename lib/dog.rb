@@ -1,7 +1,7 @@
 class Dog 
 end
   
-  fido = bark
+  def bark 
     puts "Woof!"
     
     
